@@ -47,7 +47,7 @@ A **Streamlit** app that sends your question to a squad of open-source LLM super
 ### Installation
 
 1. Clone this repo:
-git clone https://github.com/yourusername/mixture_of_agents.git
+git clone https://github.com/Akhil1603/mixture_of_agents.git
 cd mixture_of_agents
 Install dependencies:
 
